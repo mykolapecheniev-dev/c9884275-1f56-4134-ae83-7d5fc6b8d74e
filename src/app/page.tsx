@@ -98,13 +98,13 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Elena R.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg"},
+          id: "1",          name: "Elena R.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg?_wi=1"},
         {
-          id: "2",          name: "Marcus S.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg"},
+          id: "2",          name: "Marcus S.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg?_wi=2"},
         {
-          id: "3",          name: "Sarah J.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg"},
+          id: "3",          name: "Sarah J.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg?_wi=3"},
         {
-          id: "4",          name: "David L.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg"},
+          id: "4",          name: "David L.",          imageSrc: "https://pixabay.com/get/g398b22f5d848b08ca7cd3d8004fc39f584809e58ee435f3927e6315cb8bb80f0ebdb18dd804a4afe666d79f99432b0c7e7bf3eb10851cafe85b1c206e722a087_1280.jpg?_wi=4"},
       ]}
       cardTitle="Client Stories"
       cardTag="Testimonials"
